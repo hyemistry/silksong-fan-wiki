@@ -997,3 +997,7 @@ form input:invalid{
         width: 50%;
     }
 }
+
+#sister p{
+    margin-bottom: 0;
+}
