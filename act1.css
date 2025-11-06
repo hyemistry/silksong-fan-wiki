@@ -256,6 +256,10 @@ form input:invalid{
     text-indent: 75px;
 }
 
+.gen p span{
+    color: yellow;
+}
+
 .gen .genny{
     justify-content: center;
     display: flex;
